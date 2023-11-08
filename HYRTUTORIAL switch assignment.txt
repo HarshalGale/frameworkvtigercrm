@@ -1,0 +1,21 @@
+HYRTUTORIAL
+
+1)open new window
+  parent----close
+  child-----remain 
+
+2)open new tap
+parent----close
+child-----remain same but it will not click on option 
+          whene we put close driver in child it will not close parent and child but it will close click button .
+       OR
+parent----remain
+child-----close
+
+3)open multiple window
+  parent----close
+  child-----remain
+
+4)open multiple tap
+parent-----remain
+child------close
